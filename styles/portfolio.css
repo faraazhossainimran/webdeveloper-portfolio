@@ -90,8 +90,18 @@ nav a {
 /* main section styles */
 /* about seciton */
 .about {
-    padding: 200px;
-    border-radius: 5px; 
-    border: 0;
-    background: #FFF8F3;
+  width: 100%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.about-content{
+  width: 1200px;
+  padding: 200px;
+  margin: 0 auto;
+  border-radius: 5px; 
+  border: 0;
+  background: #FFF8F3;
+}
+.section-title{
+  text-align: center;
 }
