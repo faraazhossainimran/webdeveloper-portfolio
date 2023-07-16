@@ -105,3 +105,15 @@ nav a {
 .section-title{
   text-align: center;
 }
+/* what i do starts */
+.what-do-details{
+  display: flex;
+  gap: 2;
+}
+.what-content{
+  width: 1200px;
+  margin: 0 auto;
+}
+.what-do-rec{
+  width: 200px;
+}
